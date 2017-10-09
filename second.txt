@@ -1,2 +1,1 @@
-this is second text file that we are making
-The cohange in  second
+changes are made in second file
